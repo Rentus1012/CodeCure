@@ -10,7 +10,7 @@ app.get('/', (req, res) =>{
 //서버 실행 함수
 
 app.listen(port, () => {
-    console.log('서버가 실행됩니다. http://localhost:{port}');
+    console.log('서버가 실행됩니다. http://localhost:{%d}', port);
 });
 
 
