@@ -7,7 +7,13 @@ app.listen(port,() => {
     console.log("listening on port");
 });
 
-app.get('/', function(req, res)=>
+app.get('/',(req, res)=>
 {
     res.send("Successed!");
+});
+
+
+app.get('/login',(req, res)=>
+{
+    res.send("login Screen");
 });
