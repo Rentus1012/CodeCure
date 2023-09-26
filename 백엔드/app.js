@@ -12,4 +12,9 @@ app.get('/',(req, res)=>
     res.send("Successed!");
 });
 
+app.get('/login',(req, res)=>
+{
+    res.send("login");
+});
+
 
