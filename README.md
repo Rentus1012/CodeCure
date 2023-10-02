@@ -1,11 +1,11 @@
 # CodeCure
 
 
-###### ÀÌ ÇÁ·ÎÁ§Æ®´Â ÇÑ±¹¾î·Î Á¦ÀÛµÈ ÇÁ·ÎÁ§Æ®ÀÌ¸ç, ÁÖ¼®µµ ¶ÇÇÑ ÇÑ±¹¾îÀÔ´Ï´Ù.
-###### ÀÌ ÇÁ·ÎÁ§Æ®´Â ¿ÀÁ÷ node.js, ¹é¿£µå¸¦ °øºÎÇÏ±â À§ÇÑ µµ±¸ÀÌ¸ç, ÀÌ ¿ÜÀÇ ¿ëµµ´Â ¾øÀ½À» ¹àÈü´Ï´Ù.
-###### ¸¸¾à Àß¸øµÈ ÄÚµå°¡ ÀÖÀ¸¸é Áï½Ã ¿¬¶ô ¹Ù¶ø´Ï´Ù. 
+###### ì´ í”„ë¡œì íŠ¸ëŠ” í•œêµ­ì–´ë¡œ ì œì‘ëœ í”„ë¡œì íŠ¸ì´ë©°, ì£¼ì„ë„ ë˜í•œ í•œêµ­ì–´ì…ë‹ˆë‹¤.
+###### ì´ í”„ë¡œì íŠ¸ëŠ” ì˜¤ì§ node.js, ë°±ì—”ë“œë¥¼ ê³µë¶€í•˜ê¸° ìœ„í•œ ë„êµ¬ì´ë©°, ì´ ì™¸ì˜ ìš©ë„ëŠ” ì—†ìŒì„ ë°í™ë‹ˆë‹¤.
+###### ë§Œì•½ ì˜ëª»ëœ ì½”ë“œê°€ ìˆìœ¼ë©´ ì¦‰ì‹œ ì—°ë½ ë°”ëë‹ˆë‹¤. 
 ###### This project is written in Korean, and the annotations are also in Korean.
 ###### This project is only a tool for studying node.js backend, and has no other use.
 ###### If you have any incorrect codes, please contact us immediately.
 
-###### thx # CodeCure
+###### thx for CodeCure
