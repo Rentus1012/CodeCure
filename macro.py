@@ -14,25 +14,89 @@ import time
 
 
 while 1:
-    if keyboard.is_pressed('enter'):
-        position = pyautogui.position()
-        print(position)
-        time.sleep(0.2)
-    elif keyboard.is_pressed('esc'):
+    # 그 아래거는 리눅스관리
+    pyautogui.moveTo(384,362)
+    time.sleep(0.3)
+    pyautogui.click()
+    pyautogui.click()
+    
+    ## 알림 창
+    
+    pyautogui.moveTo(739,176)
+    time.sleep(0.3)
+    pyautogui.click()
+    pyautogui.click()
+    
+    
+    # 그 아래거는 자료구조
+    pyautogui.moveTo(385,387)
+    time.sleep(0.3)
+    pyautogui.click()
+    pyautogui.click()
+    
+    
+    ## 알림 창
+    
+    pyautogui.moveTo(739,176)
+    time.sleep(0.3)
+    pyautogui.click()
+    pyautogui.click()
+    
+    
+    # 그 아래는 전기전자공학실험
+    pyautogui.moveTo(385,409)
+    time.sleep(0.3)
+    pyautogui.click()
+    pyautogui.click()
+    
+    
+    ## 알림 창
+    
+    pyautogui.moveTo(739,176)
+    time.sleep(0.3)
+    pyautogui.click()
+    pyautogui.click()
+    
+    
+    # 학과별강좌 조회
+    pyautogui.moveTo(276,680)
+    pyautogui.click()
+    pyautogui.click()
+    
+    if keyboard.is_pressed('esc'):
         break
+
+
+
+
+#     time.sleep(0.5)
+#     pyautogui.click()
+
+
+# while 1:
+#     if keyboard.is_pressed('enter'):
+#         position = pyautogui.position()
+#         print(position)
+#         time.sleep(0.2)
+#     elif keyboard.is_pressed('esc'):
+#         break
+    
+
+
+
+
 
 
 
 #무한 클릭 코드(f12, esc 누르면 자동 탈출)
 
 
-while 1:
-    if keyboard.is_pressed('enter'):
-        position = pyautogui.position()
-        while 1:
-            pyautogui.click(position)
-            if keyboard.is_pressed('esc'):
-                break
-    elif keyboard.is_pressed('f12'):
-        break
+
+
+
+
+
+
+
+
 
